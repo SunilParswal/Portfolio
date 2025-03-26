@@ -95,6 +95,20 @@ p {
     width: 600px;
   }
 }
+@media (max-width: 650px){
+  .contactsForm {
+    width: 100%;
+  }
+  .name,
+  .email,
+  .message {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+  }
+}
 
 .links {
   display: flex;
