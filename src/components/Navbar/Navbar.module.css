@@ -22,7 +22,11 @@
 .menu {
   display: flex;
 }
-
+.menuOpen{
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
 .menuItems {
   display: flex;
   justify-content: space-evenly;
@@ -105,5 +109,15 @@
   .menuOpen {
     display: flex;
     z-index: 100;
+  }
+}
+@media screen and (max-width: 650px){
+  .menuItems {
+    right: 30vh;
+  }
+}
+@media screen and (max-width: 450px){
+  .menuItems {
+    right: 10vh;
   }
 }
