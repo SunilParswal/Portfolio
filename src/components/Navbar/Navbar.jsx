@@ -57,7 +57,7 @@ export const Navbar = () => {
           </li>
 
           <li className={styles.menuitems}>
-            <a href="https://drive.google.com/file/d/1lfyvn2BefrJqjrUIoRNvxGCSgJKKiU16/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/1gwDjuCvuc_isiFM33JozIj6OmWWnaWx6/view" target="_blank" rel="noopener noreferrer">
              <AiOutlineFileText className={styles.menuItemIcon} />
              Resume Overview
             </a>
