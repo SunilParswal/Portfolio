@@ -36,7 +36,7 @@ export const Home = () => {
         </p>
       </div>
       <a
-        href="https://drive.google.com/file/d/1lfyvn2BefrJqjrUIoRNvxGCSgJKKiU16/view?usp=sharing"
+        href="https://drive.google.com/file/d/1gwDjuCvuc_isiFM33JozIj6OmWWnaWx6/view?usp=sharing"
         className={styles.CVBtn}
         target="_blank"
         rel="noopener noreferrer"
